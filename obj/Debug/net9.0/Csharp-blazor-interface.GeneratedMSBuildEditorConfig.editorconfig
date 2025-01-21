@@ -36,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXENvbXBvbmVudHNcVGFibGVDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXENvdW50ZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Dashboard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXERhc2hib2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,8 +44,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXEZldGNoRGF0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXEluZGV4LnJhem9y
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXEhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXEltcG9ydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Settings.razor]

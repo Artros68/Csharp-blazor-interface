@@ -19,8 +19,6 @@ C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-i
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\scopedcss\Csharp-blazor-interface.Presentation\Shared\NavMenu.razor.rz.scp.css
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\scopedcss\bundle\Csharp-blazor-interface.styles.css
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\scopedcss\projectbundle\Csharp-blazor-interface.bundle.scp.css
-C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\compressed\axatgpgy6k-ac20vcs2rm.gz
-C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\compressed\wtv4ledx3r-ac20vcs2rm.gz
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -35,3 +33,6 @@ C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-i
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\Csharp-blazor-interface.pdb
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\Csharp-blazor-interface.genruntimeconfig.cache
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\ref\Csharp-blazor-interface.dll
+C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\scopedcss\Csharp-blazor-interface.Presentation\Pages\Home.razor.rz.scp.css
+C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\compressed\axatgpgy6k-9zsd5dg4c0.gz
+C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\obj\Debug\net9.0\compressed\wtv4ledx3r-9zsd5dg4c0.gz

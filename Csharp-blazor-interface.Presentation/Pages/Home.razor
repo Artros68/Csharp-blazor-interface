@@ -1,0 +1,30 @@
+﻿@page "/"
+@namespace Csharp_blazor_interface_Presentation.Pages
+
+<link href="/css/Home.css" rel="stylesheet" />
+
+
+<div class="home-page">
+    <div class="home-page-header">
+        <Header />
+        <h2>
+            GreenScale : Optimisateur de Consommation Industrielle
+        </h2>
+
+    </div>
+
+    <div class="home-page-content">
+        <div class="main-logo">
+            <img src="images/No_background_logo.png" alt="Greenscale Logo" />
+        </div>
+        <div class="button-container">
+            <button class=" get-started-btn">
+                <NavLink href="importdata">Get Started!</NavLink>
+            </button>
+        </div>
+    </div>
+</div>
+
+@code {
+    // Logique de la page
+}

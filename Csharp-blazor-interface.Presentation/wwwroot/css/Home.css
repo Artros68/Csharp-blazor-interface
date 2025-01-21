@@ -1,0 +1,94 @@
+/* Style de la page d'accueil */
+.home-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url('/images/PME_illustration.png');
+    background-size: cover;
+    background-position: center;
+    color: #E3DDBB;
+    font-family: Arial, sans-serif;
+}
+
+.home-page-header {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    margin-bottom: 30px;
+}
+
+/* Contenu centré de la page */
+.home-page-content {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+/* Titre de la page */
+.home-page-content h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #E3DDBB;
+    margin-bottom: 20px;
+}
+
+/* Style du logo avec un cercle blanc semi-transparent autour */
+.home-page-content img {
+    width: 400px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.main-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+/* Style du bouton */
+.get-started-btn {
+    width: 334px;
+    height: 70px;
+    background-color: #3E7734;
+    color: white;
+    padding: 15px 40px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+/* Ajustement du lien dans le bouton */
+.get-started-btn a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+/* Effet au survol du bouton */
+.get-started-btn:hover {
+    background-color: #22432D;
+    color: white;
+}
