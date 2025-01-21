@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp-blazor-interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+170a30bbe57c8e665c8429e39e70bd603145af66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d74954ee65c19ec71cf43a2d1dfe69ae97a90e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp-blazor-interface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp-blazor-interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
