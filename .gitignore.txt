@@ -1,0 +1,69 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono auto-generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Rider settings
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio files
+.vs/
+*.vscode/
+*.VC.db
+*.VC.VC.opendb
+
+# ASP.NET Core Blazor
+wwwroot/*.cache
+wwwroot/_framework/
+wwwroot/css/app.css.map
+wwwroot/css/app.css
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Global JetBrains Rider files
+.idea/
+.idea.*
+*.iml
+
+# Generated files
+*.generated.cs
+ServiceFabricBackup/

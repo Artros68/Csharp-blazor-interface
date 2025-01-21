@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Csharp_blazor_interface
+build_property.RootNamespace = Csharp_blazor_interface
+build_property.ProjectDir = C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\Csharp-blazor-interface
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Components/ChartComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXENvbXBvbmVudHNcQ2hhcnRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Components/ModalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXENvbXBvbmVudHNcTW9kYWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Components/TableComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXENvbXBvbmVudHNcVGFibGVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXERhc2hib2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXEZldGNoRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Settings.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXFNldHRpbmdzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Shared/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFNoYXJlZFxIZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFNoYXJlZFxTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFNoYXJlZFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-y9hk81e55e
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFNoYXJlZFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-3yd40ifxk3
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3NoYXJwLWJsYXpvci1pbnRlcmZhY2UuUHJlc2VudGF0aW9uXFBhZ2VzXF9Ib3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
