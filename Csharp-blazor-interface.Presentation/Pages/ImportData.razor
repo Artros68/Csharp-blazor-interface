@@ -17,7 +17,7 @@
     </div>
 
     <!-- Option parcourir -->
-    <input type="file" @onchange="OnFileSelected" />
+    <input type="file" @onclick="test" @onchange="OnFileSelected" />
 
     <!-- Bouton Flush -->
     <button @onclick="FlushFile" disabled="@string.IsNullOrEmpty(fileName)">Flush</button>
@@ -27,13 +27,19 @@
     private string fileName;
     private string destinationPath;
 
+    private void test()
+    {
+        Console.WriteLine("Test");
+        return;
+    }
+
     private async Task OnDrop(DragEventArgs e)
     {
-        if (e.DataTransfer?.Files is not null && e.DataTransfer.Files.Count > 0)
+        @* if (e.DataTransfer?.Files != null && e.DataTransfer.Files.count() > 0)
         {
             var file = e.DataTransfer.Files[0];
             await SaveFileAsync(file);
-        }
+        } *@
     }
 
     private async Task OnFileSelected(ChangeEventArgs e)
@@ -64,6 +70,7 @@
             await file.OpenReadStream().CopyToAsync(stream);
         }
         catch (Exception ex)
+
         {
             Console.WriteLine($"Erreur lors de l'import : {ex.Message}");
         }

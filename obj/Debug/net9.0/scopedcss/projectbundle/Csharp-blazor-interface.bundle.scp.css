@@ -1,88 +1,14 @@
-/* _content/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Pages/Home.razor.rz.scp.css */
-/* Style de la page d'accueil */
-.home-page[b-3gqdki9m1t] {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    background-image: url('/images/PME_illustration.png');
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: #E3DDBB;
-    font-family: Arial, sans-serif;
-}
-
-/* Contenu centré de la page */
-.home-page-content[b-3gqdki9m1t] {
-    display: flex;
-    position: relative;
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 50px;
-    border-radius: 20px;
-}
-
-/* Titre de la page */
-.home-page-content h1[b-3gqdki9m1t] {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: #E3DDBB;
-    margin-bottom: 20px;
-}
-
-/* Style du logo avec un cercle blanc semi-transparent autour */
-.home-page-content img[b-3gqdki9m1t] {
-    width: 250px;
-    height: auto;
-    border-radius: 50%;
-    background: rgba(255, 255, 255, 0.5);
-    padding: 20px;
-    margin-bottom: 30px;
-}
-
-/* Style du bouton */
-.get-started-btn[b-3gqdki9m1t] {
-    background-color: #3E7734;
-    color: #E3DDBB;
-    padding: 15px 40px;
-    font-size: 1.5rem;
-    font-weight: bold;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    text-transform: uppercase;
-    transition: background-color 0.3s ease;
-    display: inline-block;
-    text-decoration: none;
-}
-
-/* Ajustement du lien dans le bouton */
-.get-started-btn a[b-3gqdki9m1t] {
-    text-decoration: none;
-    color: inherit;
-    font-weight: bold;
-}
-
-.get-started-btn[b-3gqdki9m1t] {
-    background-color: #3E7734;
-    color: #E3DDBB;
-    padding: 15px 30px;
-    font-size: 1.2rem;
-    font-weight: bold;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    text-transform: uppercase;
-}
-
-/* Effet au survol du bouton */
-.get-started-btn:hover[b-3gqdki9m1t] {
-    background-color: #22432D;
-    color: white;
-}
+/* _content/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/App.razor.rz.scp.css */
+<Router AppAssembly="@typeof(Program).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <p>Error 404: Page Not Found<br>Sorry[b-9sciy4w7be], there's nothing at this address.</p>
+        </LayoutView>
+    </NotFound>
+</Router[b-9sciy4w7be]>
 /* _content/Csharp-blazor-interface/Csharp-blazor-interface.Presentation/Shared/MainLayout.razor.rz.scp.css */
 .page[b-y9hk81e55e] {
     position: relative;
@@ -161,7 +87,7 @@
 
 .top-row[b-3yd40ifxk3] {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: #E3DDBB;
 }
 
 .navbar-brand[b-3yd40ifxk3] {
@@ -180,32 +106,33 @@
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-3yd40ifxk3] {
-        padding-top: 1rem;
-    }
+.nav-item:first-of-type[b-3yd40ifxk3] {
+    padding-top: 1rem;
+}
 
-    .nav-item:last-of-type[b-3yd40ifxk3] {
-        padding-bottom: 1rem;
-    }
+.nav-item:last-of-type[b-3yd40ifxk3] {
+    padding-bottom: 1rem;
+}
 
-    .nav-item[b-3yd40ifxk3]  a {
-        color: #d7d7d7;
-        border-radius: 4px;
-        height: 3rem;
-        display: flex;
-        align-items: center;
-        line-height: 3rem;
-    }
+.nav-item[b-3yd40ifxk3]  a {
+    color: #d7d7d7;
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    line-height: 3rem;
+}
 
 .nav-item[b-3yd40ifxk3]  a.active {
-    background-color: rgba(255,255,255,0.25);
+    background-color: rgba(255, 255, 255, 0.25);
     color: white;
 }
 
 .nav-item[b-3yd40ifxk3]  a:hover {
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255, 255, 255, 0.1);
     color: white;
 }
+
 
 @media (min-width: 641px) {
     .navbar-toggler[b-3yd40ifxk3] {

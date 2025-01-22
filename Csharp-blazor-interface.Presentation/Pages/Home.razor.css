@@ -1,5 +1,5 @@
 /* ------------------  Home page style  ------------------ */
-.home-page[b-3gqdki9m1t] {
+.home-page {
     position: relative;
     width: 100%;
     height: 100vh;
@@ -8,7 +8,7 @@
     background-position: center;
 }
 
-.home-page-whitener[b-3gqdki9m1t] {
+.home-page-whitener {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -19,7 +19,7 @@
 }
 
 /* ------------------ Header Styles ------------------ */
-.home-page-header[b-3gqdki9m1t] {
+.home-page-header {
     position: relative;
     width: 100%;
     text-align: center;
@@ -29,18 +29,18 @@
     margin-bottom: 1rem;
 }
 
-.home-page-header h1[b-3gqdki9m1t] {
+.home-page-header h1 {
     font-size: 2.5rem;
     font-weight: bold;
 }
 
 /* ------------------ Content Styles ------------------ */
-.home-page-content[b-3gqdki9m1t] {
+.home-page-content {
     position: relative;
     height: 100%;
 }
 
-.home-page-content-container[b-3gqdki9m1t] {
+.home-page-content-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -49,7 +49,7 @@
 }
 
 /* -------- Logo -------- */
-.main-logo-container[b-3gqdki9m1t] {
+.main-logo-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61,18 +61,18 @@
     margin-bottom: 1rem;
 }
 
-.home-page-content img[b-3gqdki9m1t] {
+.home-page-content img {
     width: 18.75rem;
     height: auto;
     padding-bottom: 1.25rem;
 }
 
 /* -------- Button -------- */
-.button-container[b-3gqdki9m1t] {
+.button-container {
     display: flex;
     justify-content: center;
 }
 
-.get-started-btn[b-3gqdki9m1t] {
+.get-started-btn {
     text-transform: uppercase;
 }

@@ -1,0 +1,12 @@
+﻿.notfound-container {
+    background-color: #f8d7da;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+p {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}

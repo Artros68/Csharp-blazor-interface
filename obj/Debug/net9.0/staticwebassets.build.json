@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v9+raArjRPkf4KG+ZGZv604ECgpbD+UxUvKI3XWZkeY=",
+  "Hash": "1jCLR+1Y+8AJEnVT62u92K8Iqrbg7VxkWcpyMayeeh0=",
   "Source": "Csharp-blazor-interface",
   "BasePath": "_content/Csharp-blazor-interface",
   "Mode": "Default",
@@ -9,12 +9,12 @@
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-9zsd5dg4c0.gz",
+      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-fm7tin6nju.gz",
       "SourceId": "Csharp-blazor-interface",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Csharp-blazor-interface",
-      "RelativePath": "Csharp-blazor-interface#[.{fingerprint=9zsd5dg4c0}]?.styles.css.gz",
+      "RelativePath": "Csharp-blazor-interface#[.{fingerprint=fm7tin6nju}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -23,19 +23,19 @@
       "RelatedAsset": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Csharp-blazor-interface.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pvj9g1e5iq",
-      "Integrity": "5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=",
+      "Fingerprint": "qt0jbwyocm",
+      "Integrity": "EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Csharp-blazor-interface.styles.css"
     },
     {
-      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-9zsd5dg4c0.gz",
+      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-fm7tin6nju.gz",
       "SourceId": "Csharp-blazor-interface",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Csharp-blazor-interface",
-      "RelativePath": "Csharp-blazor-interface#[.{fingerprint=9zsd5dg4c0}]!.bundle.scp.css.gz",
+      "RelativePath": "Csharp-blazor-interface#[.{fingerprint=fm7tin6nju}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -44,8 +44,8 @@
       "RelatedAsset": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Csharp-blazor-interface.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pvj9g1e5iq",
-      "Integrity": "5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=",
+      "Fingerprint": "qt0jbwyocm",
+      "Integrity": "EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Csharp-blazor-interface.bundle.scp.css"
@@ -65,8 +65,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "9zsd5dg4c0",
-      "Integrity": "9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=",
+      "Fingerprint": "fm7tin6nju",
+      "Integrity": "1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Csharp-blazor-interface.styles.css"
@@ -86,8 +86,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "9zsd5dg4c0",
-      "Integrity": "9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=",
+      "Fingerprint": "fm7tin6nju",
+      "Integrity": "1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Csharp-blazor-interface.bundle.scp.css"
@@ -95,13 +95,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "Csharp-blazor-interface.9zsd5dg4c0.bundle.scp.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-9zsd5dg4c0.gz",
+      "Route": "Csharp-blazor-interface.bundle.scp.css",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-fm7tin6nju.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000720461095"
+          "Quality": "0.000916590284"
         }
       ],
       "ResponseHeaders": [
@@ -111,19 +111,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1387"
+          "Value": "1090"
         },
         {
           "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -139,26 +139,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
+          "Value": "W/\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "9zsd5dg4c0"
-        },
-        {
-          "Name": "label",
-          "Value": "Csharp-blazor-interface.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
         }
       ]
     },
     {
-      "Route": "Csharp-blazor-interface.9zsd5dg4c0.bundle.scp.css",
+      "Route": "Csharp-blazor-interface.bundle.scp.css",
       "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Csharp-blazor-interface.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -168,7 +160,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5035"
+          "Value": "3378"
         },
         {
           "Name": "Content-Type",
@@ -176,11 +168,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
+          "Value": "\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
+        }
+      ]
+    },
+    {
+      "Route": "Csharp-blazor-interface.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-fm7tin6nju.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU="
+        }
+      ]
+    },
+    {
+      "Route": "Csharp-blazor-interface.fm7tin6nju.bundle.scp.css",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-fm7tin6nju.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000916590284"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fm7tin6nju"
+        },
+        {
+          "Name": "label",
+          "Value": "Csharp-blazor-interface.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
+        }
+      ]
+    },
+    {
+      "Route": "Csharp-blazor-interface.fm7tin6nju.bundle.scp.css",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Csharp-blazor-interface.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -190,7 +327,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9zsd5dg4c0"
+          "Value": "fm7tin6nju"
         },
         {
           "Name": "label",
@@ -198,13 +335,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
         }
       ]
     },
     {
-      "Route": "Csharp-blazor-interface.9zsd5dg4c0.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-9zsd5dg4c0.gz",
+      "Route": "Csharp-blazor-interface.fm7tin6nju.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-fm7tin6nju.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -213,7 +350,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1387"
+          "Value": "1090"
         },
         {
           "Name": "Content-Type",
@@ -221,11 +358,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -243,7 +380,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9zsd5dg4c0"
+          "Value": "fm7tin6nju"
         },
         {
           "Name": "label",
@@ -251,18 +388,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI="
+          "Value": "sha256-EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU="
         }
       ]
     },
     {
-      "Route": "Csharp-blazor-interface.9zsd5dg4c0.styles.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-9zsd5dg4c0.gz",
+      "Route": "Csharp-blazor-interface.fm7tin6nju.styles.css",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-fm7tin6nju.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000720461095"
+          "Quality": "0.000916590284"
         }
       ],
       "ResponseHeaders": [
@@ -272,15 +409,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1387"
+          "Value": "1090"
         },
         {
           "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -300,13 +437,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
+          "Value": "W/\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9zsd5dg4c0"
+          "Value": "fm7tin6nju"
         },
         {
           "Name": "label",
@@ -314,12 +451,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
         }
       ]
     },
     {
-      "Route": "Csharp-blazor-interface.9zsd5dg4c0.styles.css",
+      "Route": "Csharp-blazor-interface.fm7tin6nju.styles.css",
       "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Csharp-blazor-interface.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -329,7 +466,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5035"
+          "Value": "3378"
         },
         {
           "Name": "Content-Type",
@@ -337,11 +474,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
+          "Value": "\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -351,7 +488,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9zsd5dg4c0"
+          "Value": "fm7tin6nju"
         },
         {
           "Name": "label",
@@ -359,13 +496,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
         }
       ]
     },
     {
-      "Route": "Csharp-blazor-interface.9zsd5dg4c0.styles.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-9zsd5dg4c0.gz",
+      "Route": "Csharp-blazor-interface.fm7tin6nju.styles.css.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-fm7tin6nju.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -374,7 +511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1387"
+          "Value": "1090"
         },
         {
           "Name": "Content-Type",
@@ -382,11 +519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -404,7 +541,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9zsd5dg4c0"
+          "Value": "fm7tin6nju"
         },
         {
           "Name": "label",
@@ -412,155 +549,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI="
-        }
-      ]
-    },
-    {
-      "Route": "Csharp-blazor-interface.bundle.scp.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-9zsd5dg4c0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000720461095"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1387"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
-        }
-      ]
-    },
-    {
-      "Route": "Csharp-blazor-interface.bundle.scp.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Csharp-blazor-interface.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
-        }
-      ]
-    },
-    {
-      "Route": "Csharp-blazor-interface.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\wtv4ledx3r-9zsd5dg4c0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1387"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI="
+          "Value": "sha256-EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU="
         }
       ]
     },
     {
       "Route": "Csharp-blazor-interface.styles.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-9zsd5dg4c0.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-fm7tin6nju.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000720461095"
+          "Quality": "0.000916590284"
         }
       ],
       "ResponseHeaders": [
@@ -570,15 +570,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1387"
+          "Value": "1090"
         },
         {
           "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -598,13 +598,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
+          "Value": "W/\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
         }
       ]
     },
@@ -619,7 +619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5035"
+          "Value": "3378"
         },
         {
           "Name": "Content-Type",
@@ -627,11 +627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o=\""
+          "Value": "\"1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -641,13 +641,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9UwKJ/EIDnhXhHQj3oQpo4yra6/gNCKpfcwnys3zg0o="
+          "Value": "sha256-1/lzxYLCL2JU9gQZUHjLqIMmmd972u964nwfdzlECzc="
         }
       ]
     },
     {
       "Route": "Csharp-blazor-interface.styles.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-9zsd5dg4c0.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\compressed\\axatgpgy6k-fm7tin6nju.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -656,7 +656,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1387"
+          "Value": "1090"
         },
         {
           "Name": "Content-Type",
@@ -664,11 +664,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI=\""
+          "Value": "\"EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 05:10:30 GMT"
+          "Value": "Wed, 22 Jan 2025 21:34:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -686,7 +686,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5aCfJVRDFz9qSBB9R5l4h7eBBgqrh12G0VMwCG2reeI="
+          "Value": "sha256-EurpeO7SkkvzsDJOatW5OXbsNsDVx5+tqKrL13yxgYU="
         }
       ]
     }
