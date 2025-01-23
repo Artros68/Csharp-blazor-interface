@@ -28,6 +28,75 @@
 h1[b-hklag57cr1] {
     color: red;
 }
+/* GreenScale.Presentation/wwwroot/GreenScale.Presentation/Pages/DataImport.razor.rz.scp.css */
+h1[b-f4kwfm401d] {
+    padding: 1rem 0 2rem 0;
+    margin-bottom: 2rem;
+}
+
+.import-container[b-f4kwfm401d] {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.drop-zone[b-f4kwfm401d] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 28.125rem;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.drop-zone:hover[b-f4kwfm401d] {
+    background-color: #f1f1f1;
+    border-color: #4A8E3E;
+}
+
+button:disabled[b-f4kwfm401d] {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+button:hover:not(:disabled)[b-f4kwfm401d] {
+    background-color: #0056b3;
+}
+
+.import-container[b-f4kwfm401d] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 70%;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+p[b-f4kwfm401d] {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.flush[b-f4kwfm401d] {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 100%;
+    height: 100%;
+    padding: 2rem;
+}
 /* GreenScale.Presentation/wwwroot/GreenScale.Presentation/Pages/Home.razor.rz.scp.css */
 /* ------------------  Home page style  ------------------ */
 .home-page[b-l9aqj35h29] {
@@ -172,7 +241,7 @@ h1[b-hklag57cr1] {
 }
 
 .top-row[b-6y2lpgp5fr] {
-    height: auto;
+    height: 4.75rem;
     background-color: #E3DDBB;
     display: flex;
     align-items: center;
@@ -189,6 +258,15 @@ h1[b-hklag57cr1] {
 .navbar-brand img[b-6y2lpgp5fr] {
     height: 3.125rem;
     margin-right: 0.625rem;
+}
+
+.nav-container[b-6y2lpgp5fr] {
+    height: calc(100% - 4.75rem);
+}
+
+.flex-column[b-6y2lpgp5fr] {
+    justify-content: space-between;
+    height: 100%;
 }
 
 .oi[b-6y2lpgp5fr] {
@@ -228,6 +306,10 @@ h1[b-hklag57cr1] {
 .nav-item[b-6y2lpgp5fr]  a.active {
     background-color: #3E7734;
     color: #ffffff;
+}
+
+#settings[b-6y2lpgp5fr] {
+    width: 5rem;
 }
 
 @media (min-width: 641px) {

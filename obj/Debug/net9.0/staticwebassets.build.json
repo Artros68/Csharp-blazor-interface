@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JHEUaF5Lx+n2ZXvrAUDPPaaSCcxWefFD+QLr6QVm7ck=",
+  "Hash": "qxztDx5TwCLtkv7FSZfkpHNNtueEcYZT3bUNkjnSnHM=",
   "Source": "GreenScale",
   "BasePath": "GreenScale.Presentation/wwwroot",
   "Mode": "Default",
@@ -9,12 +9,12 @@
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-c18qghpz9w.gz",
+      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-dsghpiw0hr.gz",
       "SourceId": "GreenScale",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "GreenScale.Presentation/wwwroot",
-      "RelativePath": "GreenScale#[.{fingerprint=c18qghpz9w}]?.styles.css.gz",
+      "RelativePath": "GreenScale#[.{fingerprint=dsghpiw0hr}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -23,19 +23,19 @@
       "RelatedAsset": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GreenScale.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q2hjn9780q",
-      "Integrity": "zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=",
+      "Fingerprint": "c9b5axgdy1",
+      "Integrity": "QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GreenScale.styles.css"
     },
     {
-      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-c18qghpz9w.gz",
+      "Identity": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-dsghpiw0hr.gz",
       "SourceId": "GreenScale",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "GreenScale.Presentation/wwwroot",
-      "RelativePath": "GreenScale#[.{fingerprint=c18qghpz9w}]!.bundle.scp.css.gz",
+      "RelativePath": "GreenScale#[.{fingerprint=dsghpiw0hr}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -44,8 +44,8 @@
       "RelatedAsset": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GreenScale.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q2hjn9780q",
-      "Integrity": "zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=",
+      "Fingerprint": "c9b5axgdy1",
+      "Integrity": "QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GreenScale.bundle.scp.css"
@@ -65,8 +65,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "c18qghpz9w",
-      "Integrity": "MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=",
+      "Fingerprint": "dsghpiw0hr",
+      "Integrity": "w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GreenScale.styles.css"
@@ -86,8 +86,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "c18qghpz9w",
-      "Integrity": "MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=",
+      "Fingerprint": "dsghpiw0hr",
+      "Integrity": "w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GreenScale.bundle.scp.css"
@@ -96,12 +96,12 @@
   "Endpoints": [
     {
       "Route": "GreenScale.bundle.scp.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-c18qghpz9w.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-dsghpiw0hr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000820344545"
+          "Quality": "0.000656167979"
         }
       ],
       "ResponseHeaders": [
@@ -111,15 +111,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -139,13 +139,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "W/\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
@@ -160,7 +160,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5308"
+          "Value": "6970"
         },
         {
           "Name": "Content-Type",
@@ -168,11 +168,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -182,13 +182,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
     {
       "Route": "GreenScale.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-c18qghpz9w.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-dsghpiw0hr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -197,7 +197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "Content-Type",
@@ -205,11 +205,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -227,18 +227,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw="
+          "Value": "sha256-QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc="
         }
       ]
     },
     {
-      "Route": "GreenScale.c18qghpz9w.bundle.scp.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-c18qghpz9w.gz",
+      "Route": "GreenScale.dsghpiw0hr.bundle.scp.css",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-dsghpiw0hr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000820344545"
+          "Quality": "0.000656167979"
         }
       ],
       "ResponseHeaders": [
@@ -248,15 +248,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -276,13 +276,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "W/\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c18qghpz9w"
+          "Value": "dsghpiw0hr"
         },
         {
           "Name": "label",
@@ -290,12 +290,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
     {
-      "Route": "GreenScale.c18qghpz9w.bundle.scp.css",
+      "Route": "GreenScale.dsghpiw0hr.bundle.scp.css",
       "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GreenScale.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -305,7 +305,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5308"
+          "Value": "6970"
         },
         {
           "Name": "Content-Type",
@@ -313,11 +313,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -327,7 +327,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c18qghpz9w"
+          "Value": "dsghpiw0hr"
         },
         {
           "Name": "label",
@@ -335,13 +335,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
     {
-      "Route": "GreenScale.c18qghpz9w.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-c18qghpz9w.gz",
+      "Route": "GreenScale.dsghpiw0hr.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\lmuo462xdi-dsghpiw0hr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -350,7 +350,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "Content-Type",
@@ -358,11 +358,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -380,7 +380,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c18qghpz9w"
+          "Value": "dsghpiw0hr"
         },
         {
           "Name": "label",
@@ -388,18 +388,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw="
+          "Value": "sha256-QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc="
         }
       ]
     },
     {
-      "Route": "GreenScale.c18qghpz9w.styles.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-c18qghpz9w.gz",
+      "Route": "GreenScale.dsghpiw0hr.styles.css",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-dsghpiw0hr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000820344545"
+          "Quality": "0.000656167979"
         }
       ],
       "ResponseHeaders": [
@@ -409,15 +409,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -437,13 +437,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "W/\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c18qghpz9w"
+          "Value": "dsghpiw0hr"
         },
         {
           "Name": "label",
@@ -451,12 +451,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
     {
-      "Route": "GreenScale.c18qghpz9w.styles.css",
+      "Route": "GreenScale.dsghpiw0hr.styles.css",
       "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GreenScale.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -466,7 +466,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5308"
+          "Value": "6970"
         },
         {
           "Name": "Content-Type",
@@ -474,11 +474,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -488,7 +488,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c18qghpz9w"
+          "Value": "dsghpiw0hr"
         },
         {
           "Name": "label",
@@ -496,13 +496,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
     {
-      "Route": "GreenScale.c18qghpz9w.styles.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-c18qghpz9w.gz",
+      "Route": "GreenScale.dsghpiw0hr.styles.css.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-dsghpiw0hr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -511,7 +511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "Content-Type",
@@ -519,11 +519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -541,7 +541,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c18qghpz9w"
+          "Value": "dsghpiw0hr"
         },
         {
           "Name": "label",
@@ -549,18 +549,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw="
+          "Value": "sha256-QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc="
         }
       ]
     },
     {
       "Route": "GreenScale.styles.css",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-c18qghpz9w.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-dsghpiw0hr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000820344545"
+          "Quality": "0.000656167979"
         }
       ],
       "ResponseHeaders": [
@@ -570,15 +570,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -598,13 +598,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "W/\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
@@ -619,7 +619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5308"
+          "Value": "6970"
         },
         {
           "Name": "Content-Type",
@@ -627,11 +627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=\""
+          "Value": "\"w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -641,13 +641,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY="
+          "Value": "sha256-w0+EdjqJFyvKzlFUK2U0QfTzXlkewnRAQzJx5NIftgw="
         }
       ]
     },
     {
       "Route": "GreenScale.styles.css.gz",
-      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-c18qghpz9w.gz",
+      "AssetFile": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\compressed\\3pbvpiw77d-dsghpiw0hr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -656,7 +656,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1218"
+          "Value": "1523"
         },
         {
           "Name": "Content-Type",
@@ -664,11 +664,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw=\""
+          "Value": "\"QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 02:47:26 GMT"
+          "Value": "Thu, 23 Jan 2025 05:50:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -686,7 +686,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zndRNka+okf8gTIYH6uFVsvBq0HxzYaUBfquN33kjDw="
+          "Value": "sha256-QHbzjf8LkhV7CQWgWi6cHz+dRiRQAPl8NiAPBYBehAc="
         }
       ]
     }

@@ -8,28 +8,32 @@
     </button>
 </div>
 
-<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+<div class="@NavMenuCssClass nav-container" @onclick="ToggleNavMenu">
     <ul class="nav flex-column">
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="importdata">
-                <span class="oi oi-data-transfer-download" aria-hidden="true"></span> Import Data
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-graph" aria-hidden="true"></span> View Results
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="options">
-                <span class="oi oi-wrench" aria-hidden="true"></span>
-            </NavLink>
-        </li>
+        <div>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                    <span class="oi oi-home" aria-hidden="true"></span> Home
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="dataimport">
+                    <span class="oi oi-data-transfer-download" aria-hidden="true"></span> Data Import
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="fetchdata">
+                    <span class="oi oi-graph" aria-hidden="true"></span> View Results
+                </NavLink>
+            </li>
+        </div>
+        <div>
+            <li class="nav-item px-3" id="settings">
+                <NavLink class="nav-link" href="settings">
+                    <span class="oi oi-wrench" aria-hidden="true"></span>
+                </NavLink>
+            </li>
+        </div>
     </ul>
 </div>
 

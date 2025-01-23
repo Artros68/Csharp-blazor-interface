@@ -40,10 +40,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/ImportData.razor]
-build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcSW1wb3J0RGF0YS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/Settings.razor]
 build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcU2V0dGluZ3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -63,6 +59,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/App.razor]
 build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcQXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-hklag57cr1
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/DataImport.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcRGF0YUltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-f4kwfm401d
 
 [C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcSG9tZS5yYXpvcg==

@@ -35,5 +35,6 @@ C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\GreenScale.genruntimeconfig.cache
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\ref\GreenScale.dll
 C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\scopedcss\GreenScale.Presentation\Pages\App.razor.rz.scp.css
-C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\compressed\3pbvpiw77d-c18qghpz9w.gz
-C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\compressed\lmuo462xdi-c18qghpz9w.gz
+C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\scopedcss\GreenScale.Presentation\Pages\DataImport.razor.rz.scp.css
+C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\compressed\3pbvpiw77d-dsghpiw0hr.gz
+C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\obj\Debug\net9.0\compressed\lmuo462xdi-dsghpiw0hr.gz

@@ -3,7 +3,7 @@
 }
 
 .top-row {
-    height: auto;
+    height: 4.75rem;
     background-color: #E3DDBB;
     display: flex;
     align-items: center;
@@ -20,6 +20,15 @@
 .navbar-brand img {
     height: 3.125rem;
     margin-right: 0.625rem;
+}
+
+.nav-container {
+    height: calc(100% - 4.75rem);
+}
+
+.flex-column {
+    justify-content: space-between;
+    height: 100%;
 }
 
 .oi {
@@ -59,6 +68,10 @@
 .nav-item ::deep a.active {
     background-color: #3E7734;
     color: #ffffff;
+}
+
+#settings {
+    width: 5rem;
 }
 
 @media (min-width: 641px) {
