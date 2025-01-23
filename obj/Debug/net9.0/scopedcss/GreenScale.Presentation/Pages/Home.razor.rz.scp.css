@@ -1,6 +1,5 @@
 /* ------------------  Home page style  ------------------ */
 .home-page[b-l9aqj35h29] {
-    position: relative;
     width: 100%;
     height: 100vh;
     background-image: url('/images/PME_illustration.png');
@@ -20,23 +19,15 @@
 
 /* ------------------ Header Styles ------------------ */
 .home-page-header[b-l9aqj35h29] {
-    position: relative;
     width: 100%;
-    text-align: center;
     color: #E3DDBB;
     background-color: rgba(0, 0, 0, 0.5);
     padding: 1rem;
     margin-bottom: 1rem;
 }
 
-.home-page-header h1[b-l9aqj35h29] {
-    font-size: 2.5rem;
-    font-weight: bold;
-}
-
 /* ------------------ Content Styles ------------------ */
 .home-page-content[b-l9aqj35h29] {
-    position: relative;
     height: 100%;
 }
 

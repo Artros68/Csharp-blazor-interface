@@ -1,22 +1,22 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.b52t3oq5ov.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.c18qghpz9w.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>GreenScale</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>GreenScale.Presentation/wwwroot</BasePath>
-      <RelativePath>GreenScale.b52t3oq5ov.bundle.scp.css</RelativePath>
+      <RelativePath>GreenScale.c18qghpz9w.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>b52t3oq5ov</Fingerprint>
-      <Integrity>4Sw8mVxGdkrbgrGvxNXF2rx1bVuj+KV07MjuhVnbe/o=</Integrity>
+      <Fingerprint>c18qghpz9w</Fingerprint>
+      <Integrity>MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej+/wU0wY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.b52t3oq5ov.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.c18qghpz9w.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

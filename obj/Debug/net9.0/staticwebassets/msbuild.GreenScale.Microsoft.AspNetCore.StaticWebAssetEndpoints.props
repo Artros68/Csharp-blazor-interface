@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="GreenScale.Presentation/wwwroot/GreenScale.b52t3oq5ov.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.b52t3oq5ov.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b52t3oq5ov"},{"Name":"integrity","Value":"sha256-4Sw8mVxGdkrbgrGvxNXF2rx1bVuj\u002BKV07MjuhVnbe/o="},{"Name":"label","Value":"GreenScale.Presentation/wwwroot/GreenScale.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5110"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224Sw8mVxGdkrbgrGvxNXF2rx1bVuj\u002BKV07MjuhVnbe/o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 02:10:22 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="GreenScale.Presentation/wwwroot/GreenScale.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.b52t3oq5ov.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.c18qghpz9w.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4Sw8mVxGdkrbgrGvxNXF2rx1bVuj\u002BKV07MjuhVnbe/o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5110"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224Sw8mVxGdkrbgrGvxNXF2rx1bVuj\u002BKV07MjuhVnbe/o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 02:10:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej\u002B/wU0wY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5308"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej\u002B/wU0wY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 02:47:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="GreenScale.Presentation/wwwroot/GreenScale.c18qghpz9w.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GreenScale.c18qghpz9w.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c18qghpz9w"},{"Name":"integrity","Value":"sha256-MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej\u002B/wU0wY="},{"Name":"label","Value":"GreenScale.Presentation/wwwroot/GreenScale.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5308"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MO/1ocDbkC0hSjcA6O/ktCHL09z6uTuuXNej\u002B/wU0wY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 02:47:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

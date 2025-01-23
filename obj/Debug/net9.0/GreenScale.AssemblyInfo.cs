@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenScale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1db4e2972136ec586b5f4a6b8ac1ad62f76ddf50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52be5414c17f2b3c285a7ffaeb0829a95ceb7236")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenScale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenScale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
