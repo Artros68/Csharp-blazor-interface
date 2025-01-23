@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GreenScale
+build_property.RootNamespace = GreenScale
+build_property.ProjectDir = C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\issel\Documents\Ecole\A5\Bloc 5 - Transition Numérique\GreenScale
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Components/ChartComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cQ29tcG9uZW50c1xDaGFydENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Components/ModalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Components/TableComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cQ29tcG9uZW50c1xUYWJsZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/ImportData.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcSW1wb3J0RGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/Settings.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcU2V0dGluZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Shared/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cU2hhcmVkXEhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cU2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/App.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcQXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-hklag57cr1
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-l9aqj35h29
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cU2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-tqzyahsg4p
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cU2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6y2lpgp5fr
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/issel/Documents/Ecole/A5/Bloc 5 - Transition Numérique/GreenScale/GreenScale.Presentation/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = R3JlZW5TY2FsZS5QcmVzZW50YXRpb25cUGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

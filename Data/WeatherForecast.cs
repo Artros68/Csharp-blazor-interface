@@ -1,6 +1,6 @@
 using System;
 
-namespace Csharp_blazor_interface.Data
+namespace GreenScale.Data
 {
     public class WeatherForecast
     {

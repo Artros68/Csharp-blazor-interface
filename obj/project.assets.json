@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\Csharp-blazor-interface.csproj",
-      "projectName": "Csharp-blazor-interface",
-      "projectPath": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\Csharp-blazor-interface.csproj",
+      "projectUniqueName": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\GreenScale.csproj",
+      "projectName": "GreenScale",
+      "projectPath": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\GreenScale.csproj",
       "packagesPath": "C:\\Users\\issel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\",
+      "outputPath": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

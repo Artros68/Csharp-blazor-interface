@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>GreenScale</RootNamespace>
+    <StaticWebAssetBasePath>GreenScale.Presentation/wwwroot</StaticWebAssetBasePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Définir les fichiers à inclure -->
+    <Content Include="obj\$(Configuration)\net9.0\scopedcss\bundle\GreenScale.styles.css" />
+  </ItemGroup>
+
+  <!-- Définir une cible personnalisée pour copier après la génération -->
+  <Target Name="CopyCSSAfterBuild" AfterTargets="Build">
+    <Copy SourceFiles="obj\$(Configuration)\net9.0\scopedcss\bundle\GreenScale.styles.css" 
+          DestinationFolder="GreenScale.Presentation\wwwroot\css\" />
+  </Target>
+
+</Project>

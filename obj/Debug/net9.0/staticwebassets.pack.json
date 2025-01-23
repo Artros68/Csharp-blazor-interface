@@ -1,28 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\Csharp-blazor-interface\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Csharp-blazor-interface.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Csharp-blazor-interface.fm7tin6nju.bundle.scp.css"
+      "Id": "C:\\Users\\issel\\Documents\\Ecole\\A5\\Bloc 5 - Transition Numérique\\GreenScale\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GreenScale.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GreenScale.b52t3oq5ov.bundle.scp.css"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Csharp-blazor-interface.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GreenScale.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Csharp-blazor-interface.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GreenScale.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Csharp-blazor-interface.props",
-      "PackagePath": "build\\Csharp-blazor-interface.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.GreenScale.props",
+      "PackagePath": "build\\GreenScale.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Csharp-blazor-interface.props",
-      "PackagePath": "buildMultiTargeting\\Csharp-blazor-interface.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.GreenScale.props",
+      "PackagePath": "buildMultiTargeting\\GreenScale.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Csharp-blazor-interface.props",
-      "PackagePath": "buildTransitive\\Csharp-blazor-interface.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.GreenScale.props",
+      "PackagePath": "buildTransitive\\GreenScale.props"
     }
   ],
   "ElementsToRemove": []

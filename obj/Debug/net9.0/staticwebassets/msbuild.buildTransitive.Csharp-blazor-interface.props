@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Csharp-blazor-interface.props" />
-</Project>

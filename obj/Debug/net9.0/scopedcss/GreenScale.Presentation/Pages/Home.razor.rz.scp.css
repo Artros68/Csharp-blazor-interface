@@ -1,0 +1,78 @@
+/* ------------------  Home page style  ------------------ */
+.home-page[b-l9aqj35h29] {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url('/images/PME_illustration.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.home-page-whitener[b-l9aqj35h29] {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* ------------------ Header Styles ------------------ */
+.home-page-header[b-l9aqj35h29] {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    color: #E3DDBB;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.home-page-header h1[b-l9aqj35h29] {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* ------------------ Content Styles ------------------ */
+.home-page-content[b-l9aqj35h29] {
+    position: relative;
+    height: 100%;
+}
+
+.home-page-content-container[b-l9aqj35h29] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding-bottom: 1rem;
+}
+
+/* -------- Logo -------- */
+.main-logo-container[b-l9aqj35h29] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 28.125rem;
+    height: 28.125rem;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.home-page-content img[b-l9aqj35h29] {
+    width: 18.75rem;
+    height: auto;
+    padding-bottom: 1.25rem;
+}
+
+/* -------- Button -------- */
+.button-container[b-l9aqj35h29] {
+    display: flex;
+    justify-content: center;
+}
+
+.get-started-btn[b-l9aqj35h29] {
+    text-transform: uppercase;
+}

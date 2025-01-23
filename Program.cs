@@ -1,24 +1,35 @@
 using System.IO;
-using Csharp_blazor_interface.Data;
+using GreenScale.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-var builder = WebApplication.CreateBuilder(args);
+// New path for the wwwroot folder
+var options = new WebApplicationOptions
+{
+    WebRootPath = Path.Combine(
+        Directory.GetCurrentDirectory(),
+        "GreenScale.Presentation",
+        "wwwroot"
+    ),
+};
 
-// Ajouter les services au conteneur de dépendances
+var builder = WebApplication.CreateBuilder(options);
+
+// Add services to the dependency container
 builder.Services.AddRazorPages(options =>
 {
-    options.RootDirectory = "/Csharp-blazor-interface.Presentation/Pages";
+    options.RootDirectory = "/GreenScale.Presentation/Pages";
 });
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 
 var app = builder.Build();
 
-// Configurer le pipeline HTTP
+// Configuring the HTTP pipeline
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
@@ -30,20 +41,16 @@ app.UseStaticFiles(
     new StaticFileOptions
     {
         FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(
-            Path.Combine(
-                builder.Environment.ContentRootPath,
-                "Csharp-blazor-interface.Presentation",
-                "wwwroot"
-            )
+            Path.Combine(builder.Environment.ContentRootPath, "GreenScale.Presentation", "wwwroot")
         ),
         RequestPath = "",
     }
 );
 app.UseRouting();
 
-// Configuration des endpoints Blazor
+// Configuring Blazor endpoints
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
 
-// Démarrer l'application
+// Start application
 app.Run();
